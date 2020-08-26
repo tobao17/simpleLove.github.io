@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/simpleLove.github.io/static/css/main.f6259b7c.chunk.css",
+    "main.js": "/simpleLove.github.io/static/js/main.869eaffa.chunk.js",
+    "main.js.map": "/simpleLove.github.io/static/js/main.869eaffa.chunk.js.map",
+    "runtime-main.js": "/simpleLove.github.io/static/js/runtime-main.f90d4b3e.js",
+    "runtime-main.js.map": "/simpleLove.github.io/static/js/runtime-main.f90d4b3e.js.map",
+    "static/js/2.2b869574.chunk.js": "/simpleLove.github.io/static/js/2.2b869574.chunk.js",
+    "static/js/2.2b869574.chunk.js.map": "/simpleLove.github.io/static/js/2.2b869574.chunk.js.map",
+    "index.html": "/simpleLove.github.io/index.html",
+    "precache-manifest.21b8df41920b67064553fbd6ae106500.js": "/simpleLove.github.io/precache-manifest.21b8df41920b67064553fbd6ae106500.js",
+    "service-worker.js": "/simpleLove.github.io/service-worker.js",
+    "static/css/main.f6259b7c.chunk.css.map": "/simpleLove.github.io/static/css/main.f6259b7c.chunk.css.map",
+    "static/js/2.2b869574.chunk.js.LICENSE.txt": "/simpleLove.github.io/static/js/2.2b869574.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/simpleLove.github.io/static/media/avatar.b595984e.png",
+    "static/media/App.css": "/simpleLove.github.io/static/media/background6.adb483a4.jpg",
+    "static/media/heart3.png": "/simpleLove.github.io/static/media/heart3.d7f50761.png",
+    "static/media/mygirl.png": "/simpleLove.github.io/static/media/mygirl.c7ee1bb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f90d4b3e.js",
+    "static/js/2.2b869574.chunk.js",
+    "static/css/main.f6259b7c.chunk.css",
+    "static/js/main.869eaffa.chunk.js"
+  ]
+}
