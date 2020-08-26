@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/simpleLove.github.io/static/css/main.f6259b7c.chunk.css",
-    "main.js": "/simpleLove.github.io/static/js/main.869eaffa.chunk.js",
-    "main.js.map": "/simpleLove.github.io/static/js/main.869eaffa.chunk.js.map",
-    "runtime-main.js": "/simpleLove.github.io/static/js/runtime-main.f90d4b3e.js",
-    "runtime-main.js.map": "/simpleLove.github.io/static/js/runtime-main.f90d4b3e.js.map",
-    "static/js/2.2b869574.chunk.js": "/simpleLove.github.io/static/js/2.2b869574.chunk.js",
-    "static/js/2.2b869574.chunk.js.map": "/simpleLove.github.io/static/js/2.2b869574.chunk.js.map",
-    "index.html": "/simpleLove.github.io/index.html",
-    "precache-manifest.21b8df41920b67064553fbd6ae106500.js": "/simpleLove.github.io/precache-manifest.21b8df41920b67064553fbd6ae106500.js",
-    "service-worker.js": "/simpleLove.github.io/service-worker.js",
-    "static/css/main.f6259b7c.chunk.css.map": "/simpleLove.github.io/static/css/main.f6259b7c.chunk.css.map",
-    "static/js/2.2b869574.chunk.js.LICENSE.txt": "/simpleLove.github.io/static/js/2.2b869574.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/simpleLove.github.io/static/media/avatar.b595984e.png",
-    "static/media/App.css": "/simpleLove.github.io/static/media/background6.adb483a4.jpg",
-    "static/media/heart3.png": "/simpleLove.github.io/static/media/heart3.d7f50761.png",
-    "static/media/mygirl.png": "/simpleLove.github.io/static/media/mygirl.c7ee1bb5.png"
+    "main.css": "/simpleLove/static/css/main.995fcaa0.chunk.css",
+    "main.js": "/simpleLove/static/js/main.6625fa44.chunk.js",
+    "main.js.map": "/simpleLove/static/js/main.6625fa44.chunk.js.map",
+    "runtime-main.js": "/simpleLove/static/js/runtime-main.7631771e.js",
+    "runtime-main.js.map": "/simpleLove/static/js/runtime-main.7631771e.js.map",
+    "static/js/2.2b869574.chunk.js": "/simpleLove/static/js/2.2b869574.chunk.js",
+    "static/js/2.2b869574.chunk.js.map": "/simpleLove/static/js/2.2b869574.chunk.js.map",
+    "index.html": "/simpleLove/index.html",
+    "precache-manifest.a6b74706648d9350764c7372692d9d46.js": "/simpleLove/precache-manifest.a6b74706648d9350764c7372692d9d46.js",
+    "service-worker.js": "/simpleLove/service-worker.js",
+    "static/css/main.995fcaa0.chunk.css.map": "/simpleLove/static/css/main.995fcaa0.chunk.css.map",
+    "static/js/2.2b869574.chunk.js.LICENSE.txt": "/simpleLove/static/js/2.2b869574.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/simpleLove/static/media/avatar.b595984e.png",
+    "static/media/App.css": "/simpleLove/static/media/background6.adb483a4.jpg",
+    "static/media/heart3.png": "/simpleLove/static/media/heart3.d7f50761.png",
+    "static/media/mygirl.png": "/simpleLove/static/media/mygirl.c7ee1bb5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f90d4b3e.js",
+    "static/js/runtime-main.7631771e.js",
     "static/js/2.2b869574.chunk.js",
-    "static/css/main.f6259b7c.chunk.css",
-    "static/js/main.869eaffa.chunk.js"
+    "static/css/main.995fcaa0.chunk.css",
+    "static/js/main.6625fa44.chunk.js"
   ]
 }
