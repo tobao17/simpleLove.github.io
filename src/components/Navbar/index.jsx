@@ -1,5 +1,6 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
+import { Link } from "react-router-dom";
 import {
   AppBar,
   Toolbar,
@@ -41,18 +42,22 @@ const menuIcon = [
   {
     listIcon: <Home></Home>,
     listText: "Home",
+    LinkPath: "/",
   },
   {
     listIcon: <AssignmentInd></AssignmentInd>,
     listText: "ReSume",
+    LinkPath: "/resume",
   },
   {
     listIcon: <Apps></Apps>,
     listText: "Portfolio",
+    LinkPath: "/",
   },
   {
     listIcon: <ContactMail></ContactMail>,
     listText: "Contact",
+    LinkPath: "/",
   },
 ];
 function Navbar(props) {
@@ -60,6 +65,7 @@ function Navbar(props) {
   const [state, setState] = useState({ right: false });
   const handleArowIconClick = (slider, open) => {
     setState({ ...state, [slider]: open });
+    console.log([slider]);
   };
   const sideList = (slider) => (
     <Box
@@ -71,7 +77,7 @@ function Navbar(props) {
       <Divider></Divider>
       <List>
         {menuIcon.map((lstItem, key) => (
-          <ListItem button key={key}>
+          <ListItem button component={Link} to={lstItem.LinkPath} key={key}>
             <ListItemIcon className={classes.listItem}>
               {lstItem.listIcon}
             </ListItemIcon>

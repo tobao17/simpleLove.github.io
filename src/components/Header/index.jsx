@@ -47,39 +47,21 @@ function Header(props) {
           <Avatar className={classes.avatar} src={avatar}></Avatar>
         </Grid>
 
-        <Typography className={classes.title} variant="h4">
-          <Typed
-            strings={["Page này lập ra để dỗ quýt hết giận"]}
-            typeSpeed={40}
-          />
+        <Typography className={classes.title} variant="h5">
+          <Typed strings={["Pham To Bao17"]} typeSpeed={40} />
         </Typography>
         <br />
         <Typography className={classes.subtitle} variant="h5">
           <Typed
             strings={[
-              "Tuy hay nói nhiều...",
-              "và hay giận hờn vô cớ ...",
-              "còn hay ghen nữa...",
-              "lúc nào cũng ngáo ngáo ngơ ngơ...",
-              "nhưng với tui ...",
-              "hai vẫn là xinh nhất ...",
-              "dễ thương nhất ...",
-              "Vì vậy nên ...",
-              "đừng giận tui nữa nhaaa ...",
-              "lớp diuuuuuuuuuuu! ...",
+              "Web design",
+              "Mern afdsfasdafad fsasdfasd fasdfasdf sdfasdfaadfstack",
             ]}
             typeSpeed={40}
             backSpeed={40}
             loop
           />
         </Typography>
-      </Box>
-      <Box className={classes.subday}>
-        <ListItem>
-          <Favorite style={{ color: "red" }}></Favorite>
-          <Typography style={{ color: "pink" }}>{diffDays} Days</Typography>
-          <Favorite style={{ color: "red" }}></Favorite>
-        </ListItem>
       </Box>
     </>
   );
